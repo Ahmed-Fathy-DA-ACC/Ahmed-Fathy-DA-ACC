@@ -8,13 +8,13 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Fathy-DA-ACC&label=Profile+views&color=000000&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
+  <a href="https://github.com/Ahmed-Fathy-DA-ACC">
+    <img src="https://img.shields.io/github/followers/Ahmed-Fathy-DA-ACC?label=Follow%20on%20GitHub&style=for-the-badge&color=000000&logo=github" alt="GitHub Followers" />
+  </a>
   <a href="https://twitter.com/A7med_F4t7y" target="_blank">
     <img src="https://img.shields.io/twitter/follow/A7med_F4t7y?logo=twitter&style=for-the-badge&color=000000" alt="Twitter Follow" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Fathy-DA-ACC&label=Profile+views&color=000000&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
