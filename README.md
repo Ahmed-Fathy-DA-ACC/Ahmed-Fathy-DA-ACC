@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ahmed%20Fathy%20Kamal&fontSize=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ahmed%20Fathy%20Kamal&fontSize=70&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -9,12 +9,12 @@
 
 <p align="center">
   <a href="https://github.com/Ahmed-Fathy-DA-ACC">
-    <img src="https://img.shields.io/github/followers/Ahmed-Fathy-DA-ACC?label=Follow%20on%20GitHub&style=for-the-badge&color=000000&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Ahmed-Fathy-DA-ACC?label=Follow%20on%20GitHub&style=for-the-badge&color=667eea&logo=github" alt="GitHub Followers" />
   </a>
   <a href="https://twitter.com/A7med_F4t7y" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/A7med_F4t7y?logo=twitter&style=for-the-badge&color=000000" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/A7med_F4t7y?logo=twitter&style=for-the-badge&color=667eea" alt="Twitter Follow" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Fathy-DA-ACC&label=Profile+views&color=000000&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Fathy-DA-ACC&label=Profile+views&color=667eea&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -62,10 +62,10 @@
 
 ### GitHub Statistics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Fathy-DA-ACC&show_icons=true&locale=en&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Fathy-DA-ACC&show_icons=true&locale=en&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Fathy-DA-ACC&show_icons=true&locale=en&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Fathy-DA-ACC&show_icons=true&locale=en&layout=compact&theme=default" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Fathy-DA-ACC&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Fathy-DA-ACC&theme=default" />
 </div>
