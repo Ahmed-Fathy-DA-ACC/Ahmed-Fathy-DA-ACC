@@ -188,7 +188,7 @@ Currently a **Data Analysis Trainee** at the **Digital Egypt Pioneers Initiative
 <div align="center">
 
 ## Turning Data Into Decisions
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,20:0B1120,40:111827,60:1E3A8A,80:2563EB,100:38BDF8"/>
 
 </div>
+
